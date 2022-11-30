@@ -1,0 +1,121 @@
+section{
+  background-color: coral;
+  }
+
+  header{
+    background-color: grey;
+    }
+
+    footer{
+      background-color: green;
+      }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  img {
+    height: 200px;
+    width: 50%;
+  }
+
+
+  #test{
+        background-color: #49dd61;
+    }
+
+    #kleur1{
+          background-color: #442fdb;
+      }
+
+      #kleur2{
+            background-color: #895ca4;
+        }
+
+        #kleur3{
+              background-color: #ffffff;
+          }
+
+          #kleur4{
+                background-color: #ffffcc;
+            }
+
+            #kleur5{
+                  background-color: #ffff99;
+              }
+
+              #kleur6{
+                    background-color: #ffff66;
+                }
+
+                #kleur7{
+                      background-color: #ffff33;
+                  }
+
+                  #kleur8{
+                        background-color: #ffff00;
+                    }
+
+                    #kleur9{
+                          background-color: #ccffff;
+                      }
+
+                      #kleur10{
+                            background-color: #ccffcc;
+                        }
+
+                        #kleur11{
+                              background-color: #ccff99;
+                          }
+
+                          #kleur12{
+                                background-color: #ccff66;
+                            }
+
+                            #kleur13{
+                                  background-color: #ccff33;
+                              }
+
+                              #kleur14{
+                                    background-color: #ccff33;
+                                }
+
+                                #kleur15{
+                                      background-color: #ccff00;
+                                  }
+
+                                  #kleur16{
+                                        background-color: #99ffff;
+                                    }
+
+#foto1{
+      background-color: #ffccff;
+  }
+
+  #foto2{
+        background-color: #ffcccc;
+    }
+
+    #foto3{
+          background-color: #ffcc99;
+      }
+
+      #foto4{
+            background-color: #ffcc99;
+        }
+
+        #foto5{
+              background-color: #ffcc33;
+          }
+
+          #foto6{
+                background-color: #ffcc00;
+            }
+
+            #foto7{
+                  background-color: #cc99ff;
+              }
+
+              #foto8{
+                    background-color: #ff99cc;
+                }
